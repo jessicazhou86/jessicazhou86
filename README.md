@@ -6,7 +6,7 @@
 I am a full stack software engineer committed to building well-designed systems and engaging user interfaces. I thrive in collaborative environments, embrace the challenge of learning new technologies, and am motivated by impact.
 </p>
 <p align='center'>
-My previous work in healthcare / research psychology emphasized client communication and thoughtful design, making me a stronger, more empathetic developer. Currently exploring how my backgrounds can intersect to contribute to modern-day technologies, healthcare innovations, and accessibility. 
+My previous work in healthcare / research psychology emphasized client communication and thoughtful design and makes me a stronger, more empathetic developer. Currently exploring how my backgrounds can intersect to contribute to modern-day technologies, healthcare innovations, and accessibility. 
 </p>
 
 <br></br>
