@@ -12,7 +12,7 @@ My previous work in healthcare / research psychology emphasized client communica
 - 📍 Currently based in Los Angeles, CA
 - 🌱 Looking for job opportunities to continue growing my experience with the full stack
 - 🤔 Curious about ML/AI, assistive technologies, & UX
-- 💬 Ask me about technology x healthcare, web design, sleep psychology, food
+- 💬 Ask me about technology x healthcare, ergonomic setups, sleep psychology, food
 
 <h3 align='center'>
 My Tech Stack:
