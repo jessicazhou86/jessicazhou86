@@ -9,8 +9,7 @@ I am a full stack software engineer committed to building well-designed systems 
 My previous work in healthcare / research psychology emphasized client communication and thoughtful design and makes me a stronger, more empathetic developer. Currently exploring how my backgrounds can intersect to contribute to modern-day technologies, healthcare innovations, and accessibility. 
 </p>
 
-- 📍 Currently based in Los Angeles, CA
-- 🌱 Looking for job opportunities to continue growing my experience with the full stack
+- 📍 Currently based in San Franciso, CA
 - 🤔 Curious about ML/AI, assistive technologies, & UX
 - 💬 Ask me about technology x healthcare, ergonomic setups, sleep psychology, food
 
